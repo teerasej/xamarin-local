@@ -1,0 +1,14 @@
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\bin\Debug\VatCalculator.dll
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\bin\Debug\VatCalculator.pdb
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\bin\Debug\Xamarin.Forms.Core.dll
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\bin\Debug\Xamarin.Forms.Platform.dll
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\bin\Debug\Xamarin.Forms.Xaml.dll
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\bin\Debug\Xamarin.Forms.Core.xml
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\bin\Debug\Xamarin.Forms.Xaml.xml
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\obj\Debug\VatCalculator.csprojResolveAssemblyReference.cache
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\obj\Debug\VatCalculator.MainPage.xaml.g.cs
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\obj\Debug\VatCalculator.App.xaml.g.cs
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\obj\Debug\VatCalculator.dll
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\obj\Debug\VatCalculator.pdb
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\obj\Debug\VatCalculator.dll.mdb
+c:\users\teerasej\documents\visual studio 2015\Projects\VatCalculator\VatCalculator\VatCalculator\bin\Debug\VatCalculator.dll.mdb
